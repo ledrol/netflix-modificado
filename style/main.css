@@ -1,5 +1,5 @@
 :root{
-    --vermelho:#E50914;
+    --vermelho:#cfcaca;
     --preta:#141414;
 }
 
@@ -27,6 +27,7 @@ header .container{
 
 header .logo{
     margin-left: 5px;
+    margin-top: 6px;
     color: var(--vermelho);
     font-family: 'Arial Black', Times;
     font-size:40px;
@@ -46,7 +47,7 @@ header nav a:hover{
 /*filme principal*/
 .filme-principal{
     font-size:16px;
-    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%),  url('/img/capa-house.jpg');
+    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%),  url('../img/capa-metropolis.jpg');
 
     height:400px;
     background-size:cover;
