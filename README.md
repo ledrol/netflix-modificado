@@ -5,3 +5,6 @@ As alterações são:
 - Adicionado mais um conjunto de filmes ao estilo carrossel abaixo do existente;
 - Alterado de Netflix para Oldflix;
 - Alteração da imagem de fundo.
+
+----------------------------------------------------------------------------
+* [Repositório original](https://github.com/felipeAguiarCode/netflix-clone)
